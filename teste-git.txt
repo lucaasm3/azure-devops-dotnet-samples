@@ -1,0 +1,2 @@
+Teste de versionamento com Git e GitHub.
+Primeira alteração realizada por Lucas.
