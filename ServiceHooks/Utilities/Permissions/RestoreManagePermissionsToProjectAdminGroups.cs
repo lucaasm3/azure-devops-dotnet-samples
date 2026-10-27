@@ -8,7 +8,8 @@ using Microsoft.TeamFoundation.Framework.Common;
 
 namespace Microsoft.TeamServices.Samples.ServiceHooks
 {
-    public class RestoreManagePermissionsToProjectAdminGroups
+    public class RestoreManagePermissionsToProjectAdminGroups 
+    if else
     {
         private static readonly Guid ServiceHooksSecurityNamespaceId = new Guid("cb594ebe-87dd-4fc9-ac2c-6a10a4c92046");
 
