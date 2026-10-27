@@ -80,7 +80,7 @@ namespace Microsoft.TeamServices.Samples.ServiceHooks
                     }
                     
                     Console.WriteLine("");
-                }
+                } return 0;
             }
         }
     }
